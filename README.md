@@ -1,7 +1,6 @@
-# Olá, eu sou Yuran Porto, Sejam bem-vindos ao meu perfil. 😊
+# <div align="center">Olá, eu sou Yuran Porto, Sejam bem-vindos ao meu perfil. 😊</div>
 
-Here are some ideas to get you started:
-
+About me:
 - 🔭 I’m currently working on Back-end
 - 🌱 I’m currently learning Django Framework
 - 💬 Ask me about Geek stuff and everything you want, i like talk with different peoples
