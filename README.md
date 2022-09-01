@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/yuranporto](https://www.linkedin.com/in/yuran-porto/)">
+  <a href="https://www.linkedin.com/in/yuran-porto/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuranporto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuranporto&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
