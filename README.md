@@ -2,7 +2,7 @@
 
 ## About me:
 - 🔭 I’m currently working on Back-end
-- 🌱 I’m currently learning Django Framework
+- 🌱 I’m currently learning PHP Laravel
 - 💬 Ask me about Geek stuff and everything you want, i like talk with different peoples
 - 📫 How to reach me: yuranporto@gmail.com
 
