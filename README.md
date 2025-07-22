@@ -35,5 +35,3 @@
   
   ##
   
-  ![snake gif](https://github.com/yuranporto/YuranPorto/blob/output/github-contribution-grid-snake.svg)
-  
