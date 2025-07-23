@@ -2,7 +2,7 @@
 
 ## About me:
 - 🔭 I’m currently working on Back-end in Shinier Solutions
-- 🌱 I’m currently learning PHP Laravel
+- 🌱 I’m currently learning Javascript vue.js
 - 💬 Ask me about Geek stuff and everything you want, i like talk with different peoples
 - 📫 How to reach me: yuranporto@gmail.com
 
@@ -23,6 +23,7 @@
     <img align="center" width="60" hegth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" width="60" hegth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img align="center" width="60" hegth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img align="center" width="60" hegth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   </div>
   
   ##
